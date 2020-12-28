@@ -1,2 +1,0 @@
-# drum_kit
-i
